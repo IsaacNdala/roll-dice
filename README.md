@@ -1,6 +1,10 @@
-# roll_dice
+# RollDice
 
-A new Flutter project.
+<image src="project-image.png">
+
+## About
+
+Mobile app built with flutter for rolling dice.
 
 ## Getting Started
 
